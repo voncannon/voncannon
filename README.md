@@ -1,4 +1,4 @@
-## Wassup! 👋
+## 👋
 
 
 * :green_book: **[Read my blog](https://www.voncannontech.com/blog)**.
